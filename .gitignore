@@ -1,7 +1,10 @@
 a.txt
 <<<<<<< HEAD
 c*
+<<<<<<< HEAD
 dir1/
 !c.txt
 =======
 >>>>>>> parent of 776ef4b (ignoring new file.)
+=======
+>>>>>>> parent of efc45ef (new directory and ignored files added)
