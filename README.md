@@ -1,4 +1,6 @@
 # TODO list
 A simple text,
-# Features
+updated readme.
+
+## Features
 * List of daily tasks.
